@@ -3,7 +3,7 @@ Retrieve the flights data by an interactive CLI or using a custom API that is in
 
 These script is just for personal use and for learning purpose, not for commercial use.
 
-This repo is a "Hands-on" of this (presentation)[https://slides.com/mikilombardi-1/puppeteer-web-scraping-and-ui-testing-tool/fullscreen] at Plansoft srl.
+This repo is a "Hands-on" of this [presentation](https://slides.com/mikilombardi-1/puppeteer-web-scraping-and-ui-testing-tool/fullscreen) at Plansoft srl.
 
 ## Usage & Setup
 
@@ -32,7 +32,7 @@ I've implemented a light web server in the index-concurrency.js script that prov
 ## Docker
 You can run these script using also Docker.
 
-You can refer to the offical (Puppeteer repo)[https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#running-puppeteer-in-docker].
+You can refer to the offical [Puppeteer repo](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#running-puppeteer-in-docker).
 
 ## Contribution
 Feel free to contribute by open an issue or creating a pull request.
