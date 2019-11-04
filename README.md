@@ -3,6 +3,8 @@ Retrieve the flights data by an interactive CLI or using a custom API that is in
 
 These script is just for personal use and for learning purpose, not for commercial use.
 
+This repo is a "Hands-on" of this (presentation)[https://slides.com/mikilombardi-1/puppeteer-web-scraping-and-ui-testing-tool/fullscreen] at Plansoft srl.
+
 ## Usage & Setup
 
 Clone this repository and then run:
